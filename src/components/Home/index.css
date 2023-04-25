@@ -1,0 +1,72 @@
+.logo {
+  height: 100px;
+}
+.main {
+  padding: 80px;
+  font-family: 'roboto';
+  text-align: left;
+  background-color: rgb(230, 253, 253);
+}
+.sub-head {
+  color: blue;
+}
+.underline {
+  border-style: solid;
+  border-width: 5px;
+  border-color: orange;
+  width: 180px;
+  margin-right: 80vw;
+}
+.woman {
+  height: 200px;
+  margin-right: 10px;
+}
+.container1 {
+  display: flex;
+  font-size: 20px;
+}
+span {
+  color: rgb(17, 227, 17);
+  font-weight: bold;
+}
+.other-heads {
+  color: rgb(61, 27, 92);
+}
+.last {
+  display: flex;
+}
+hr {
+  border-color: aqua;
+  height: 2px;
+  width: 150px;
+  align-self: center;
+  margin-top: 18px;
+  margin-left: 0px;
+}
+.activity {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+.sub {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  width: 250px;
+}
+ul {
+  text-align: left;
+  border-style: solid;
+  border-color: rgb(115, 102, 102);
+  border-width: 1px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  height: auto;
+  font-size: 20px;
+}
+.show {
+  text-align: center;
+  padding: 10px;
+  background-color: white;
+  box-shadow: 1px 3px rgb(175, 158, 158);
+}
